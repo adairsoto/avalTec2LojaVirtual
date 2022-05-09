@@ -1,0 +1,16 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\bin\Debug\LojaOnline.exe.config
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\bin\Debug\LojaOnline.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\bin\Debug\LojaOnline.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.Form1.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.Properties.Resources.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.csproj.GenerateResource.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.Telas.Cadastro.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.Telas.Atualizar.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.Telas.Login.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.Telas.Cliente.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\AvalTec2\AvalTec2\LojaOnline\obj\Debug\LojaOnline.Telas.Carrinho.resources
